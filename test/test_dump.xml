@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Fri Apr 16 17:32:12 2021 by Eclipse SUMO GUI Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/Users/leenalhaimy/Desktop/SP21/4331/Selfless-Traffic-Routing-Testbed-master/test/test.net.xml"/>
+        <route-files value="/Users/leenalhaimy/Desktop/SP21/4331/Selfless-Traffic-Routing-Testbed-master/test/str_sumo.rou.xml"/>
+    </input>
+
+    <output>
+        <netstate-dump value="/Users/leenalhaimy/Desktop/SP21/4331/Selfless-Traffic-Routing-Testbed-master/test/test_dump.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="200000"/>
+    </time>
+
+</configuration>
+-->
+
+<netstate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netstate_file.xsd">
+</netstate>
