@@ -1,5 +1,6 @@
 ***Selfless Traffic Routing testbed based on SUMO (STR-SUMO)***
 
+**FORKED FROM: https://github.com/guangli-dai/Selfless-Traffic-Routing-Testbed**
 This project is built based on SUMO (https://sumo.dlr.de/docs/index.html#introduction), which offers a traffic simulation platform.
 The goal of STR-SUMO is to offer a testbed that can benchmark the performance of a routing policy under the following constraints:
 - Some vehicles are controlled by the scheudling algorithm;
